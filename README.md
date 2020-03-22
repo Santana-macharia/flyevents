@@ -11,7 +11,7 @@ The project Template can be used to build bigger projects
 
 ## Live Application URL
 
-### https://flyevents.github.io
+### https://santana-macharia.github.io/flyevents
 Click to see the deployed application
 
 ## Prerequisites
