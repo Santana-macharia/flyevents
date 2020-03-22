@@ -1,0 +1,11 @@
+{
+	"id": 2,
+	"name": "Kenya Entrepreneurs Conference",
+	"description": "An conference for entrepreneurs on trade and development",
+	"owner": "Google",
+	"location": "Westlands, Nairobi",
+	"start": "0800hrs",
+	"end": "1600hrs",
+	"attendees": "500"
+	
+}

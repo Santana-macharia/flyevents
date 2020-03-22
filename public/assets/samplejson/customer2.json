@@ -1,0 +1,11 @@
+{
+	"id": 2,
+	"name": "Developers Summit",
+	"description": "A conference for developers to improve their network and skills",
+	"owner": "Google",
+	"location": "Strathmore University, Nairobi",
+	"start": "0900hrs",
+	"end": "1700hrs",
+	"attendees": "900"
+	
+}

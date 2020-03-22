@@ -1,0 +1,16 @@
+[{
+	"id": 1,
+	"name": "Career Fair",
+	"location": "KICC, Nairobi",
+	"date": "30/3/20"
+}, {
+	"id": 2,
+	"name": "Developers Summit",
+	"location": "Strathmore University, Nairobi",
+	"date": "11/4/20"
+}, {
+	"id": 3,
+	"name": "Kenya entrepreneurs conference",
+	"location": "Westlands, Nairobi",
+	"date": "6/5/20"
+}]

@@ -1,0 +1,11 @@
+{
+	"id": 1,
+	"name": "Career Fair",
+	"description": "An event that will host various speakers from different career fields",
+	"owner": "Brighter Monday",
+	"location": "KICC, Nairobi",
+	"start": "0800hrs",
+	"end": "1700hrs",
+	"attendees": "600"
+	
+}
