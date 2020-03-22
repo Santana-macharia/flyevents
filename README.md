@@ -9,11 +9,6 @@ This Project is a Simple ReactJS Project which demonstrates the following
 
 The project Template can be used to build bigger projects
 
-## Live Application URL
-
-### https://santana-macharia.github.io/flyevents
-Click to see the deployed application
-
 ## Prerequisites
 
 ### Install Node JS
