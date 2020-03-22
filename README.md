@@ -12,7 +12,7 @@ The project Template can be used to build bigger projects
 ## Live Application URL
 
 ### https://flyevents.github.io
-This URL has the application deployed in
+Click to see the deployed application
 
 ## Prerequisites
 
