@@ -2,7 +2,10 @@
   "name": "simple-reactjs-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aditya-sridhar.github.io/simple-reactjs-app",
+  "engines": {
+    "npm": "6.4.1",
+    "node": "10.15.0"},
+  
   "dependencies": {
     "axios": "^0.18.0",
     "react": "^16.4.1",
